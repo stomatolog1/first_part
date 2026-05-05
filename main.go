@@ -6,7 +6,7 @@ import (
 
 
 func main(){
-	fmt.Println("ПРинит привет хуйяка")
+	fmt.Println("ПРинит привет хуйqяка")
 }
 // // func add(a, b int)(int, error){
 // // 	if reflect.TypeOf(a).Kind() != reflect.Int || reflect.TypeOf(b).Kind() != reflect.Int{
