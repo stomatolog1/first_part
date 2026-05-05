@@ -1,9 +1,13 @@
 package main
 
-// // import (
-// // 	"fmt"
-// // )
+import (
+	"fmt"
+)
 
+
+func main(){
+	fmt.Println("ПРинит привет хуйяка")
+}
 // // func add(a, b int)(int, error){
 // // 	if reflect.TypeOf(a).Kind() != reflect.Int || reflect.TypeOf(b).Kind() != reflect.Int{
 // // 		return 0, fmt.Errorf("Вводи только числа, конь")
